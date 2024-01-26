@@ -4,7 +4,4 @@
 - 📫 Let's connect, Feel free to reach out to me on (www.linkedin.com/in/sohamsonar23)
 - 🌟 I am always eager to share and learn from the developer community:)
 
-<!---
-sohamsonar427/sohamsonar427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamvsonar&show_icons=true&theme=radical)
