@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Soham Sonar
+- 👋 Hello World, I’m Soham Sonar.
 - 🚀 I'm a passionate software developer with a love for all things code.
 - 👀 Some of my favourite tech stack includes, Python programming, Maching learning and data science, mobile app development, Java and data structures
 - 📫 Let's connect, Feel free to reach out to me on (www.linkedin.com/in/sohamsonar23)
