@@ -5,5 +5,5 @@
 - 🌟 I am always eager to share and learn from the developer community :)
 - 🌐 Do checkout my portfolio website @ https://sohamvsonar.github.io/.
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamvsonar&show_icons=true&theme=radical)
+![Soham's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sohamvsonar&hide_border=true&show_icons=true&custom_title=Soham%27s-GitHub-Stats&count_private=true&theme=vue-dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sohamvsonar)](https://git.io/streak-stats)
