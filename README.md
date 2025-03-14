@@ -1,6 +1,6 @@
-- 👋 Hello World, I’m Soham Sonar.
-- 🚀 I'm a Machine Learning & Cloud Computing Enthusiast with a passion for building scalable AI solutions.🔥 Tech Stack & Interests:
-**** 🔥 Tech Stack & Interests:
+## 👋 Hello World, I’m Soham Sonar.
+- 🚀 I'm a Machine Learning & Cloud Computing Enthusiast with a passion for building scalable AI solutions.
+  ### 🔥 Tech Stack & Interests:
 - Machine Learning & AI – LLMs, TensorFlow, PyTorch, Hugging Face, LangChain
 - Cloud & Big Data – GCP (Vertex AI, Cloud Run), AWS (EC2, S3), Docker, Kubernetes, Spark, Hadoop
 - Software Development – Python, C++, SQL, Java, React, Node.js
